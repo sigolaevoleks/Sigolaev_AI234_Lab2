@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="screen_title">My Notes</string>
+    <string name="new_note_heading">New note</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_title_placeholder">Give it a name</string>
+    <string name="note_input_label">Note text</string>
+    <string name="note_input_placeholder">What do you want to remember?</string>
+    <string name="add_note">Add</string>
+    <string name="empty_title">Nothing here yet</string>
+    <string name="empty_description">Create your first note to fill this list.</string>
+    <string name="no_search_results_title">No results</string>
+    <string name="no_search_results_description">No notes matching \"%1$s\"</string>
+    <string name="expand_note">Expand</string>
+    <string name="collapse_note">Collapse</string>
+    <string name="delete_note">Delete note</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="pin_note">Pin note</string>
+    <string name="unpin_note">Unpin note</string>
+    <string name="search_placeholder">Search notes…</string>
+    <string name="pinned_label">Pinned</string>
+    <string name="edit_note">Edit note</string>
+    <string name="copy_note">Copy to clipboard</string>
+    <string name="note_copied">Copied to clipboard</string>
+    <string name="save_note">Save</string>
+    <string name="edit_note_heading">Edit note</string>
+    <string name="color_label">Color</string>
+</resources>
